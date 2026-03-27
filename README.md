@@ -1,4 +1,4 @@
-# YoursCraft
+# Yourscraft
 Minecraft clone using Unreal Engine.
 Demo: https://www.youtube.com/watch?v=VBDN45e8FBQ
 ![Demo](Docs/Demo.png)
